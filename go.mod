@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/tracker
+module github.com/pablo-http/practicum-tracker-pablo
 
 go 1.24.1
 
